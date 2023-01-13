@@ -1,6 +1,6 @@
-# exercicio-estrutura-repeticao-array
+# Exercícios Estruturas De Repetição e Array
 Exercícios Estruturas De Repetição e Array
-EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO
+
 WHILE
 01) Nome e Idade: Faça um programa que leia conjuntos de dois valores, o primeiro representando o nome do aluno e o segundo representando a sua idade. (Pare o programa inserindo o valor 0 no campo nome)
 
